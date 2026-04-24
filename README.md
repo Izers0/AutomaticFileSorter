@@ -25,4 +25,3 @@ In the terminal, run: python -m pip install plyer
 Note
 Currently only designed for Windows (Task Scheduler Support)
 Linux and macOS support may be added in the future
-
